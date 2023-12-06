@@ -1,7 +1,7 @@
-{ 
+{
     "name": "Shadow",
     "version": "1.0.0",
-    "repository": "https://github.com/FogNetwork/Shadow",
+    "repository": "https://github.com/konomi-tokyo/tokyo-proxy4",
     "bugs": {
         "url": "https://github.com/FogNetwork/Shadow/issues"
     },
@@ -10,7 +10,7 @@
     "scripts": {
         "start": "node app.js"
     },
-    "author": "Fog Network",
+    "author": "konomi-tokyo",
     "license": "MIT",
     "dependencies": {
         "acorn-hammerhead": "^0.5.0",
