@@ -1,4 +1,4 @@
-window.addEventListener('load', function() {
+window.addEventListener('load', function() { 
 var title = localStorage.getItem("title")
 var favicon = localStorage.getItem("favicon")
 
