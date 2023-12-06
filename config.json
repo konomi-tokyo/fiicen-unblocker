@@ -1,4 +1,4 @@
-{
+{　
     "port": "8080",
     "prefix": "/service/",
     "codec": "xor"
