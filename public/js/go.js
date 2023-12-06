@@ -1,4 +1,4 @@
-function hidesugg() {
+function hidesugg() { 
   document.getElementById("search").style.borderRadius = "100px";
   document.getElementById("suggestions").style.display = "none"
 }
