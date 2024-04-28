@@ -99,7 +99,7 @@ function settitle(text) {
   document.title = text
   localStorage.setItem("title", text)
   } else {
-  document.title = "Shadow"
+  document.title = "Fiicenの外^^"
   localStorage.removeItem("title")
   }
 }
